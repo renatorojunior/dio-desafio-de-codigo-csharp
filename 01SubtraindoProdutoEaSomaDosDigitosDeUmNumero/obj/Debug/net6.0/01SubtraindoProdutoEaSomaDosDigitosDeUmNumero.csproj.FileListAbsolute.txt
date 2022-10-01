@@ -1,0 +1,15 @@
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\bin\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.exe
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\bin\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.deps.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\bin\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.runtimeconfig.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\bin\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\bin\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.csproj.AssemblyReference.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.AssemblyInfoInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.AssemblyInfo.cs
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.csproj.CoreCompileInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\refint\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.genruntimeconfig.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero\obj\Debug\net6.0\ref\01SubtraindoProdutoEaSomaDosDigitosDeUmNumero.dll
