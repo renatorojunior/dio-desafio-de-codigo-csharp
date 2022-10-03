@@ -1,0 +1,15 @@
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\bin\Debug\net6.0\03TresDivisores.exe
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\bin\Debug\net6.0\03TresDivisores.deps.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\bin\Debug\net6.0\03TresDivisores.runtimeconfig.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\bin\Debug\net6.0\03TresDivisores.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\bin\Debug\net6.0\03TresDivisores.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.csproj.AssemblyReference.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.AssemblyInfoInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.AssemblyInfo.cs
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.csproj.CoreCompileInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\refint\03TresDivisores.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\03TresDivisores.genruntimeconfig.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\03TresDivisores\obj\Debug\net6.0\ref\03TresDivisores.dll
