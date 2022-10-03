@@ -1,0 +1,15 @@
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\bin\Debug\net6.0\02EncaixaOuNao.exe
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\bin\Debug\net6.0\02EncaixaOuNao.deps.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\bin\Debug\net6.0\02EncaixaOuNao.runtimeconfig.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\bin\Debug\net6.0\02EncaixaOuNao.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\bin\Debug\net6.0\02EncaixaOuNao.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.csproj.AssemblyReference.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.AssemblyInfoInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.AssemblyInfo.cs
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.csproj.CoreCompileInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\refint\02EncaixaOuNao.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\02EncaixaOuNao.genruntimeconfig.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\02EncaixaOuNao\obj\Debug\net6.0\ref\02EncaixaOuNao.dll
