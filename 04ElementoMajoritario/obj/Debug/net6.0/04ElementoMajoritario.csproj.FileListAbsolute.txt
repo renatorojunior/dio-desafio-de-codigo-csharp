@@ -1,0 +1,15 @@
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\bin\Debug\net6.0\04ElementoMajoritario.exe
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\bin\Debug\net6.0\04ElementoMajoritario.deps.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\bin\Debug\net6.0\04ElementoMajoritario.runtimeconfig.json
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\bin\Debug\net6.0\04ElementoMajoritario.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\bin\Debug\net6.0\04ElementoMajoritario.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.csproj.AssemblyReference.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.AssemblyInfoInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.AssemblyInfo.cs
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.csproj.CoreCompileInputs.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\refint\04ElementoMajoritario.dll
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.pdb
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\04ElementoMajoritario.genruntimeconfig.cache
+C:\Users\Renato Jr\Desktop\Programação - Renato\DIO\Bootcamp Pottencial\04ElementoMajoritario\obj\Debug\net6.0\ref\04ElementoMajoritario.dll
